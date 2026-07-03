@@ -1,5 +1,18 @@
 <h1 align="center">Olá, eu sou o Vinicio 👋</h1>
 
+
+<p align="center">
+  <a href="https://www.instagram.com/vini_schlocobier?igsh=MXFlbXlnZXRjMWdqMg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicio-waldemiro-schlocobier-6356b2396/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31afx7fnquyrbxjiw32o2xek6ce4?si=b6d04a02b3c54256">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
 ### My Stacks
 
 <p align="center">
@@ -14,7 +27,7 @@ Me chamo Vinicio W. Schlocobier, tenho 20 anos. Atualmente atuo como auxiliar T.
 
 ---
 
-### 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vini-schlocobier/vini-schlocobier/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
@@ -39,18 +52,6 @@ Me chamo Vinicio W. Schlocobier, tenho 20 anos. Atualmente atuo como auxiliar T.
 
 ---
 
-### Social Midias
 
-<p align="center">
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinicio-waldemiro-schlocobier-6356b2396/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31afx7fnquyrbxjiw32o2xek6ce4?si=b6d04a02b3c54256">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
 
 ---
