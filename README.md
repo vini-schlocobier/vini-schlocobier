@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJpZHRjbmU3cnM5eWw4amc0b2R1bzdiOXd1dHkwaGJrZWNjaHR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c9IdCLK8TDv1e/giphy.gif" width="300" alt="Texto Alternativo">
+</p>
 ### My Stacks
 
 <p align="center">
