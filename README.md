@@ -1,31 +1,25 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/app/ci.min.css"
-/>
-
 <h1 align="center">Olá, eu sou o Vinicio 👋</h1>
 
 ### My Stacks
 
 <p align="center">
-  <i class="ci ci-php ci-2x"></i>
- <i class="ci ci-laravel ci-2x"></i>
- <i class="ci ci-mysql ci-2x"></i>
- <i class="ci ci-docker ci-2x"></i>
-  <i class="ci ci-apache ci-2x"></i>
-  <i class="ci ci-git ci-2x"></i>
- <i class="ci ci-vscode ci-2x"></i>
-  <i class="ci ci-javascript ci-2x"></i>
-  <i class="ci ci-python ci-2x"></i>
-  <i class="ci ci-html ci-2x"></i>
-  <i class="ci ci-css ci-2x"></i>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,apache,git,vscode,js,py,html,css" alt="My tech stack" />
 </p>
 
 ---
 
 ### About Me
 
-Me chamo vinicio W. Schlocobier tenho 20 anos. Atualmente atuo como auxiliar T.i de Desenvolvimento de sistemas na Cooperante
+Me chamo Vinicio W. Schlocobier, tenho 20 anos. Atualmente atuo como auxiliar T.I de Desenvolvimento de sistemas na Cooperante.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vini-schlocobier/vini-schlocobier/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vini-schlocobier/vini-schlocobier/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
+</p>
 
 ---
 
@@ -48,17 +42,15 @@ Me chamo vinicio W. Schlocobier tenho 20 anos. Atualmente atuo como auxiliar T.i
 ### Social Midias
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/           vinicio-waldemiro-schlocobier-6356b2396/">
-    <i class="ci ci-instagram ci-2x"></i>
-    </a>
-  <a href="https://www.linkedin.com/in/vinicio-waldemiro-schlocobier-6356b2396/">
-    <i class="ci ci-linkedin ci-2x"></i>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-   <a href="https://open.spotify.com/user/31afx7fnquyrbxjiw32o2xek6ce4?si=b6d04a02b3c54256">
-    <i class="ci ci-spotify ci-2x"></i>
+  <a href="https://www.linkedin.com/in/vinicio-waldemiro-schlocobier-6356b2396/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31afx7fnquyrbxjiw32o2xek6ce4?si=b6d04a02b3c54256">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 ---
-
-
