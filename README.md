@@ -3,7 +3,7 @@
 ### My Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,apache,git,vscode,js,py,html,css" alt="My tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,vscode,js,py,html,css" alt="My tech stack" />
 </p>
 
 ---
